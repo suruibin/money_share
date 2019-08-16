@@ -1394,6 +1394,7 @@ T0002/signals/signals_user_16/0_002952.dat  :20180327:0.0&
 T0002/signals/signals_user_16/0_002953.dat  :20180327:0.0& 
 T0002/signals/signals_user_16/0_002957.dat  :20180327:0.0& 
 T0002/signals/signals_user_16/0_002958.dat  :20180327:0.0& 
+T0002/signals/signals_user_16/0_002960.dat  :20180327:0.0& 
 T0002/signals/signals_user_16/0_300001.dat  :20180213:44.95& 20180223:44.95& 20180323:44.95& 
 T0002/signals/signals_user_16/0_300002.dat  :20180213:28.34& 20180223:28.34& 20180323:28.34& 
 T0002/signals/signals_user_16/0_300003.dat  :20180213:23.10& 20180223:23.10& 20180323:23.10& 
