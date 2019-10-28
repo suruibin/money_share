@@ -1114,32 +1114,60 @@ T0002/signals/signals_user_522/0_000908.dat  :20191023:1387.40&
 T0002/signals/signals_user_522/0_002524.dat  :20191014:2436.38& 
 T0002/signals/signals_user_800/0_002513.dat  :20191025:1887.0& 
 T0002/signals/signals_user_800/0_300071.dat  :20191025:143.0& 
-T0002/signals/signals_user_800/0_300239.dat  :20191025:-180.0& 
+T0002/signals/signals_user_800/0_300239.dat  :20191025:-180.0& 20191028:-104.0& 
+T0002/signals/signals_user_800/0_300312.dat  :20191028:-2995.0& 
+T0002/signals/signals_user_801/0_002291.dat  :20191028:-2091.0& 
 T0002/signals/signals_user_802/0_002513.dat  :20191025:1887.0& 
+T0002/signals/signals_user_802/0_300312.dat  :20191028:-2995.0& 
+T0002/signals/signals_user_802/0_300313.dat  :20191028:-1228.0& 
 T0002/signals/signals_user_802/0_300431.dat  :20191025:1158.0& 
+T0002/signals/signals_user_802/0_300561.dat  :20191028:1393.0& 
 T0002/signals/signals_user_802/1_603569.dat  :20191025:-246.0& 
 T0002/signals/signals_user_803/0_000876.dat  :20191025:-7967.0& 
 T0002/signals/signals_user_803/0_002458.dat  :20191025:1327.0& 
 T0002/signals/signals_user_803/0_002547.dat  :20191025:8385.0& 
 T0002/signals/signals_user_803/0_300071.dat  :20191025:143.0& 
+T0002/signals/signals_user_803/1_603477.dat  :20191023:1130.0& 20191028:1886.0& 
+T0002/signals/signals_user_803/1_688010.dat  :20191028:2078.0& 
+T0002/signals/signals_user_804/0_000066.dat  :20191028:-20758.0& 
 T0002/signals/signals_user_804/0_000158.dat  :20191025:2406.0& 
-T0002/signals/signals_user_805/0_300792.dat  :20191025:-1562.0& 
+T0002/signals/signals_user_804/0_000676.dat  :20191028:4020.0& 
+T0002/signals/signals_user_804/0_002195.dat  :20191028:8469.0& 
+T0002/signals/signals_user_804/0_300792.dat  :20191028:4848.0& 
+T0002/signals/signals_user_805/0_300792.dat  :20191025:-1562.0& 20191028:4848.0& 
+T0002/signals/signals_user_806/0_002044.dat  :20191028:689.0& 
 T0002/signals/signals_user_806/0_300078.dat  :20191025:6273.0& 
+T0002/signals/signals_user_806/0_300324.dat  :20191028:-8331.0& 
+T0002/signals/signals_user_806/1_600070.dat  :20191028:2679.0& 
 T0002/signals/signals_user_807/0_002351.dat  :20191025:3251.0& 
 T0002/signals/signals_user_807/0_002458.dat  :20191025:1327.0& 
 T0002/signals/signals_user_807/0_300089.dat  :20191025:1374.0& 
 T0002/signals/signals_user_810/0_000908.dat  :20191025:-2173.0& 
 T0002/signals/signals_user_810/1_600069.dat  :20191025:1585.0& 
-T0002/signals/signals_user_811/0_002865.dat  :20191025:-131.0& 
-T0002/signals/signals_user_811/0_002919.dat  :20191025:816.0& 
+T0002/signals/signals_user_811/0_002865.dat  :20191025:-131.0& 20191028:1666.0& 
+T0002/signals/signals_user_811/0_002919.dat  :20191025:816.0& 20191028:603.0& 
+T0002/signals/signals_user_812/0_000066.dat  :20191028:-20758.0& 
 T0002/signals/signals_user_812/0_002714.dat  :20191025:-1116.0& 
+T0002/signals/signals_user_814/0_000066.dat  :20191028:-20758.0& 
 T0002/signals/signals_user_814/0_002458.dat  :20191025:1327.0& 
+T0002/signals/signals_user_814/0_300324.dat  :20191028:-8331.0& 
 T0002/signals/signals_user_814/0_300541.dat  :20191025:-1148.0& 
+T0002/signals/signals_user_814/0_300793.dat  :20191028:3919.0& 
+T0002/signals/signals_user_814/1_603927.dat  :20191028:3923.0& 
+T0002/signals/signals_user_815/1_603927.dat  :20191028:3923.0& 
 T0002/signals/signals_user_816/0_300089.dat  :20191025:1374.0& 
 T0002/signals/signals_user_817/0_002458.dat  :20191025:1327.0& 
 T0002/signals/signals_user_817/0_002714.dat  :20191025:-1116.0& 
-T0002/signals/signals_user_820/0_002291.dat  :20191025:447.0& 
+T0002/signals/signals_user_820/0_002291.dat  :20191025:447.0& 20191028:-2091.0& 
+T0002/signals/signals_user_820/0_300792.dat  :20191028:4848.0& 
+T0002/signals/signals_user_821/0_000997.dat  :20191028:-4783.0& 
+T0002/signals/signals_user_821/0_002100.dat  :20191028:7004.0& 
 T0002/signals/signals_user_821/0_300740.dat  :20191025:493.0& 
 T0002/signals/signals_user_822/0_300089.dat  :20191025:1374.0& 
+T0002/signals/signals_user_822/0_300313.dat  :20191028:-1228.0& 
 T0002/signals/signals_user_822/0_300431.dat  :20191025:1158.0& 
 T0002/signals/signals_user_822/0_300541.dat  :20191025:-1148.0& 
+T0002/signals/signals_user_823/0_300551.dat  :20191028:-4949.0& 
+T0002/signals/signals_user_823/1_600633.dat  :20191028:570.0& 
+T0002/signals/signals_user_824/1_600633.dat  :20191028:570.0& 
+T0002/signals/signals_user_825/1_603477.dat  :20191028:1886.0& 
